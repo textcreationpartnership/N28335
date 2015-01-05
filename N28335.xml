@@ -114,17 +114,17 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037763_0000_100F098D8DFA0890"/>
-            <pb facs="tcp:037763_0001_100ED4FF31CF4820"/>
-            <pb facs="tcp:037763_0002_100ED500F0FA0278"/>
+            <pb facs="unknown:037763_0000_100F098D8DFA0890"/>
+            <pb facs="unknown:037763_0001_100ED4FF31CF4820"/>
+            <pb facs="unknown:037763_0002_100ED500F0FA0278"/>
             <p>THE VIRGIN OF THE SUN: <hi>A PLAY,</hi> IN FIVE ACTS.</p>
             <p>FROM THE GERMAN OF <hi>AUGUSTUS VON KOTZEBUE.</hi> WITH NOTES MARKING THE VARIATIONS FROM THE ORIGINAL.</p>
             <p>
                <hi>NEW-YORK</hi> PRINTED BY G. F. HOPKINS, FOR WILLIAM DUNLAP. AND SOLD AT THE OFFICE OF THE PRINTER, No. 84 MAIDEN-LANE; T. AND J. SWORDS, No. 99 PEARL-STREET; CAINE AND TEN<g ref="char:EOLhyphen"/>EYCK, NO. 148 PEARL-STREET; JOHN BLACK, NO. 5 CEDAR-STREET; ALEX. SOMERVILLE, NO. 114 MAIDEN-LANE; AND MOST OTHER BOOKSELLERS IN THE U. STATES. 1800.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:037763_0003_100F096D57FD6F08"/>
-            <pb facs="tcp:037763_0004_100F0970502F5750"/>
+            <pb facs="unknown:037763_0003_100F096D57FD6F08"/>
+            <pb facs="unknown:037763_0004_100F0970502F5750"/>
             <head>TO THE LADY OF THE PRESIDENT VON DER WENSE, OF THE FAMILY OF AHLEFELD.</head>
             <p>IT has been often said, that poetry and love obey no or<g ref="char:EOLhyphen"/>ders. It is not true, my most amiable friend; since, if your memory is faithful in respect to trifles, you will recollect that this play has to thank your commands alone for its existence.</p>
             <p>On a dark and rainy evening in Pyrmont, which pro<g ref="char:EOLhyphen"/>hibited the enjoyment of the charms of nature, you took refuge in the temple of Thalia. Nauman's opera of Cora was the piece performed. The performers were bad, and my only pleasure arose from being placed behind you and partaking at times of your conversation. Among other observations you remarked, "that this opera con<g ref="char:EOLhyphen"/>tained an excellent subject for a play."</p>
@@ -132,20 +132,20 @@
             <p>"Well, then, I command it," you said at length, with a naiveté all your own. I bowed—and behold, here stands my "Virgin of the Sun." At your command the poor maiden appears trembling in your anti-chamber. Give permission that she may enter, and attend your toi<g ref="char:EOLhyphen"/>lette with downcast eyes, until you beckon her forward with the smile of friendship.</p>
             <p>"Approach, my child! Thou shalt be welcome to me for thy father's sake, who possesses my friendship, and from whom I would now be far from withdrawing the least of his joys, since so little remains in this world for him to lose."</p>
             <p>
-               <pb n="4" facs="tcp:037763_0005_100F0972C15E4010"/>
+               <pb n="4" facs="unknown:037763_0005_100F0972C15E4010"/>
 Alas! it is too true! I possessed a treasure once that might have been compared to you—for she was the best of wives and of mothers. She has gone to the house of her father, to mingle with her sister angels. You drop<g ref="char:EOLhyphen"/>ped a tear over my sorrows. For that tear my heart still thanks you, and impels my pen to this open declaration of my highest esteem and admiration.</p>
             <closer>
                <signed>A. V. Kotzebue.</signed>
             </closer>
          </div>
          <div type="half_title">
-            <pb facs="tcp:037763_0006_100F097461149CD8"/>
+            <pb facs="unknown:037763_0006_100F097461149CD8"/>
             <p>German Theatre. No. II.</p>
             <p>THE THE VIRGIN OF THE SUN.</p>
             <p>BEING THE FIRST OF PIZARRO IN PERU; OR, THE DEATH OF ROLLA.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:037763_0007_100F0976D04F3390"/>
+            <pb facs="unknown:037763_0007_100F0976D04F3390"/>
             <head>THE VIRGIN OF THE SUN. AS FIRST PERFORMED AT THE NEW-YORK THEATRE, MARCH 12, 1800.</head>
             <head>CHARACTERS. — PERFORMERS.</head>
             <list>
@@ -194,7 +194,7 @@ Alas! it is too true! I possessed a treasure once that might have been compared 
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:037763_0008_100F09790E654D80"/>
+            <pb facs="unknown:037763_0008_100F09790E654D80"/>
             <head>THE VIRGIN OF THE SUN.</head>
             <div n="1" type="act">
                <head>ACT FIRST.</head>
@@ -218,7 +218,7 @@ Alas! it is too true! I possessed a treasure once that might have been compared 
                   <sp>
                      <speaker>Rol.</speaker>
                      <p>Wretch that I am!—I am a being without kindred or associate!—A drop with which no other drop shall ever mingle or flow;—a lonely voice,
-<pb n="8" facs="tcp:037763_0009_100F097A9133D2E8"/>
+<pb n="8" facs="unknown:037763_0009_100F097A9133D2E8"/>
 which finds no echo through the vast expanse of ani<g ref="char:EOLhyphen"/>mated nature. The pigmy worm that crawls upon this leaf—see! already comes its mate to meet him—but I! I alone—O, ye gods! it is your mighty will, that I in the immensity of your creation, I only should be left alone!—Then man—man leave me alone!</p>
                   </sp>
                   <sp>
@@ -236,7 +236,7 @@ which finds no echo through the vast expanse of ani<g ref="char:EOLhyphen"/>mate
                   <sp>
                      <speaker>Rol.</speaker>
                      <p>Would you entice me to boast of my deeds?—As Inca and as chieftain I have done my duty, covered with wounds and victories. I have prov<g ref="char:EOLhyphen"/>ed my zeal and my valor in many a well-sought field—I proved them more especially on that day when the throne of Ataliba shook beneath the pow<g ref="char:EOLhyphen"/>er of Iluascar, and Rolla's sword enriched the fields
-<pb n="9" facs="tcp:037763_0010_100F097C1368CFA0"/>
+<pb n="9" facs="unknown:037763_0010_100F097C1368CFA0"/>
 of Tumibamba with the blood of his sovereign's enemies. But for whom should I now fight?—Whose heart will leap with joy as Rolla ascends the road to fame?—Cora loves me not!—I have neither father or mother—neither brother or sister!—I am alone in the world!</p>
                   </sp>
                   <sp>
@@ -271,7 +271,7 @@ of Tumibamba with the blood of his sovereign's enemies. But for whom should I no
                   <sp>
                      <speaker>Rol.</speaker>
                      <p>I thank you. I feel that your intentions are kind. But Rolla is resolved to live and die in
-<pb n="10" facs="tcp:037763_0011_100F097ED7EE53D8"/>
+<pb n="10" facs="unknown:037763_0011_100F097ED7EE53D8"/>
 this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers above the trees—there lives Cora. And here will Rolla live and die.—Good night.</p>
                   </sp>
                   <sp>
@@ -327,7 +327,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                      <p>You are in danger of losing yourself in this wood. Follow me, and I will conduct you into the right path.</p>
                   </sp>
                   <sp>
-                     <pb n="11" facs="tcp:037763_0012_100F098228CD9E20"/>
+                     <pb n="11" facs="unknown:037763_0012_100F098228CD9E20"/>
                      <speaker>Dieg.</speaker>
                      <p>Right path! Who told you that I was in the wrong path? It were a good joke if a man of my civilization had come among savages for instruction. My lord, the high priest of the tem<g ref="char:EOLhyphen"/>ple of the sun, you are, St. Peter pardon me the comparison, a sort of a pope among these lizards and rattle-snakes; yet give me leave to tell you, that there is not a muleteer in Andalusia who is not a better catholic than you are.</p>
                   </sp>
@@ -360,7 +360,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                      <p>A coxcomb?—So much the worse for you. For in that case, the great high priest of the sun has been made a fool of by a coxcomb. Wit forever! say I. It is worth its value in the new world as well as in the old.—But is he really gone? Yes: I hear nothing more. Hist! hist!</p>
                   </sp>
                   <stage>
-                     <pb n="12" facs="tcp:037763_0013_100F0983AA4E1BD0"/>
+                     <pb n="12" facs="unknown:037763_0013_100F0983AA4E1BD0"/>
                      <hi>Enter</hi> ALONZO <hi>and</hi> JUAN. </stage>
                   <sp>
                      <speaker>Juan.</speaker>
@@ -407,7 +407,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                      <p>Well, be it so. If it be only to kill time for you, Alonzo, until your star rises. Time is always a tedious companion when one is waiting for the fulfilment of a tender appointment. I will, therefore, talk until you shall cry silence, and my text shall be—Friend! this adventure bodes thee no good! Believe me, it bodes no good!</p>
                   </sp>
                   <sp>
-                     <pb n="13" facs="tcp:037763_0014_100F0985DCFF04F8"/>
+                     <pb n="13" facs="unknown:037763_0014_100F0985DCFF04F8"/>
                      <speaker>Dieg.</speaker>
                      <p>Right, sir; right. Never was text more orthodox.</p>
                   </sp>
@@ -436,7 +436,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                      <p>But, Alonzo, Alonzo, the happiness I mean is inseparable from virtue; it lives but in the health of the soul. Lay your hand upon your heart and tell me; what are your sensations in the moments of temperance and reflection? Don Alonzo Molina quitted the savage followers of Pizarro, because he abhorred their barbarities—because he saw in every Indian an unoffending brother. That was noble! "I will go," said he, "among these well-deserving people, and be their friend and instructor." This was worthy of my friend!—You put in execution your benevolent plan. You were received—beloved—honored—and cherished. What followed? On one of their solemn festivals, my noble friend Alonzo beholds in the temple a priestess of the sun, as she presents the bread of sacrifice to the king. She is young—she is lovely. The heart of my friend is in<g ref="char:EOLhyphen"/>flamed—suddenly all his great designs are lost in the sea of oblivion; and the champion of the rights of humanity slumbers on his post.</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:037763_0015_100F09881684F420"/>
+                     <pb n="14" facs="unknown:037763_0015_100F09881684F420"/>
                      <speaker>Al.</speaker>
                      <p>
                         <hi>(Indignantly.)</hi> Velasquez!</p>
@@ -482,7 +482,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                      <p>Forsake me not, my companion, my friend, my brother in arms!</p>
                   </sp>
                   <sp>
-                     <pb n="15" facs="tcp:037763_0016_100F098A106FE2C0"/>
+                     <pb n="15" facs="unknown:037763_0016_100F098A106FE2C0"/>
                      <speaker>Juan.</speaker>
                      <p>
                         <hi>(Shaking his hand.)</hi> Alonzo—when I see a boy struggling in the water, it is not my practice to call to him—" You should not have fallen in." I draw him out, if I can.—But here, we are fairly in the mire, and the devil fetch me if I see the way to get out of it. If we had a ship, or a conjur<g ref="char:EOLhyphen"/>er's cloak, to whisk us off through the air, Don Juan Velasquez would not be the last among the fugitives. But, as it is—arm thyself with courage Velasquez—wrap thyself up to the teeth in thy cloak, and let the thunder and lightning come when it will.</p>
@@ -517,7 +517,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                      <p>I had rather you would leave me out, and make it a duetto, sir.</p>
                   </sp>
                   <sp>
-                     <pb n="16" facs="tcp:037763_0017_100F098B931859F8"/>
+                     <pb n="16" facs="unknown:037763_0017_100F098B931859F8"/>
                      <speaker>Juan.</speaker>
                      <p>No, by no means!—Come be of good heart! How dost find thyself?</p>
                   </sp>
@@ -554,7 +554,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                      <p>Blockhead! The prayers of an honest heart are as near the throne of mercy, when arising from the plains of Quito, as from the streets of Madrid. But at present, action, not supplication, is wanted. I am here as the guardian of my mis<g ref="char:EOLhyphen"/>guided friend.</p>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:037763_0018_100ED4FD0A6A0400"/>
+                     <pb n="17" facs="unknown:037763_0018_100ED4FD0A6A0400"/>
                      <speaker>Dieg.</speaker>
                      <p>Are you?—And what am I?</p>
                   </sp>
@@ -620,7 +620,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                      <p>Well, Diego, your reasoning is so good and your philosophy so sound, that I am per<g ref="char:EOLhyphen"/>suaded, I had better not trust you from my side. Come let us seek for a dry spot to rest in.</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:037763_0019_100F09908BBD0140"/>
+                     <pb n="18" facs="unknown:037763_0019_100F09908BBD0140"/>
                      <speaker>Dieg.</speaker>
                      <p>Lord, sir, why you don't think of sleep<g ref="char:EOLhyphen"/>ing in this wilderness? Who knows but one may lie down in the same bed with a bear?—I shall ne<g ref="char:EOLhyphen"/>ver be able to sleep, sir, without my night-cap, and my nice soft pillow.—</p>
                   </sp>
@@ -654,7 +654,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                </div>
             </div>
             <div n="2" type="act">
-               <pb n="19" facs="tcp:037763_0020_100F09929D383980"/>
+               <pb n="19" facs="unknown:037763_0020_100F09929D383980"/>
                <head>ACT SECOND.</head>
                <div type="scene">
                   <stage>Scene continues. Time, early morning.</stage>
@@ -701,7 +701,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                      <p>Oh no! no! True love dwells in my heart, and yet I am worse than I was.</p>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:037763_0021_100F09941F095FA0"/>
+                     <pb n="20" facs="unknown:037763_0021_100F09941F095FA0"/>
                      <speaker>Al.</speaker>
                      <p>Indeed!</p>
                   </sp>
@@ -746,7 +746,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                      <p>Your priests will say you have offended the gods.</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:037763_0022_100F0996B9080578"/>
+                     <pb n="21" facs="unknown:037763_0022_100F0996B9080578"/>
                      <speaker>Co.</speaker>
                      <p>I offend the gods?—No, Alonzo, I love the gods.</p>
                   </sp>
@@ -767,7 +767,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                      <p>It is sure and simple. Yes, the rising of this morning's sun, shall show, whether the feel<g ref="char:EOLhyphen"/>ings of my heart deceive me, whether the gods are displeased or not with Cora. Hitherto the moon and stars alone have been the witnesses of our love; but the sun himself, the greatest of our gods, shall now be the witness and the judge. We will ascend yonder hill together. We will turn our faces towards the east, and joining hand in hand, as a token of our union, boldly await the rising of our god. If Cora have done evil, either the sun will veil himself from her sight, or the first ray of his light which falls upon her, will annihilate the criminal. Soon will his beams ap<g ref="char:EOLhyphen"/>pear above the horizon; hasten, hasten to ascend the hill! <hi>(She ascends the hill, Alonzo follows her.)</hi> Behold!—A minute longer and we had been too late—see how the east is streaked with gold! Oh! rejoice, Alonzo! No cloud troubles the serenity of my god—he is not offended! <hi>(She kneels.)</hi> Father, I thank thee!—Oh! if what I feel is sin<g ref="char:EOLhyphen"/>ful, be thy glorious countenance veiled in dark<g ref="char:EOLhyphen"/>ness as a token of thy wrath!—No! See, Alon<g ref="char:EOLhyphen"/>zo, he smiles! he blesses your Cora!—O, my heart is full of joy and gratitude! Kneel with me, Alonzo, and let us offer our prayers and our thanks.</p>
                   </sp>
                   <sp>
-                     <pb n="22" facs="tcp:037763_0023_100F0998F8345228"/>
+                     <pb n="22" facs="unknown:037763_0023_100F0998F8345228"/>
                      <speaker>Al.</speaker>
                      <p>Dear Cora, the sun is not my god.</p>
                   </sp>
@@ -827,7 +827,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                      <p>Seize him! do not let him escape!</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:037763_0024_100F099B8B4EF178"/>
+                     <pb n="23" facs="unknown:037763_0024_100F099B8B4EF178"/>
                      <speaker>Juan.</speaker>
                      <p>Where? Whom?</p>
                   </sp>
@@ -903,7 +903,7 @@ this cave. There, where the cupola of the tem<g ref="char:EOLhyphen"/>ple towers
                      <speaker>Rol.</speaker>
                      <p>
                         <hi>(Embracing her.)</hi> Now let me die!—Cora confides in me! I hold thee in my arms; I speak to thee; I hear again thy beloved voice. For five
-<pb n="24" facs="tcp:037763_0025_100F099D15BB52F0"/>
+<pb n="24" facs="unknown:037763_0025_100F099D15BB52F0"/>
 years have I only at awful distance gazed at the virgin of the sun.—Now—I behold Cora again!</p>
                   </sp>
                   <sp>
@@ -923,7 +923,7 @@ years have I only at awful distance gazed at the virgin of the sun.—Now—I be
                      <p>Cora!—I tremble!—</p>
                   </sp>
                   <sp>
-                     <pb n="25" facs="tcp:037763_0026_100F099F416F6A98"/>
+                     <pb n="25" facs="unknown:037763_0026_100F099F416F6A98"/>
                      <speaker>Al.</speaker>
                      <p>Tell him all. Thy weakness, my guilt—tell him—that thou art my wife!</p>
                   </sp>
@@ -985,7 +985,7 @@ years have I only at awful distance gazed at the virgin of the sun.—Now—I be
                   <sp>
                      <speaker>Rol.</speaker>
                      <p>Your brother! Yes, I will go with you. In a sequestered spot beyond the mountains, I have á friend who will receive us with transport. There you will be in safety. There will I dwell with you, and rear your children to active virtue.
-<pb n="26" facs="tcp:037763_0027_100F09A138DCBF58"/>
+<pb n="26" facs="unknown:037763_0027_100F09A138DCBF58"/>
 I will be cheerful and happy, because I shall wit<g ref="char:EOLhyphen"/>ness the happiness of Cora! And at length, be<g ref="char:EOLhyphen"/>dew'd with fraternal and sisterly tears, ascend to our glorious father.</p>
                   </sp>
                   <sp>
@@ -1046,7 +1046,7 @@ I will be cheerful and happy, because I shall wit<g ref="char:EOLhyphen"/>ness t
                      <p>Lovely maidens! will you not come near?</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:037763_0028_100F09A2BA031AD0"/>
+                     <pb n="27" facs="unknown:037763_0028_100F09A2BA031AD0"/>
                      <speaker>Ida.</speaker>
                      <p>
                         <hi>(To Amazili.)</hi> I believe he means to ad<g ref="char:EOLhyphen"/>dress us.</p>
@@ -1122,7 +1122,7 @@ I will be cheerful and happy, because I shall wit<g ref="char:EOLhyphen"/>ness t
                      <p>And of me too!</p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:037763_0029_100F09A55B479CB0"/>
+                     <pb n="28" facs="unknown:037763_0029_100F09A55B479CB0"/>
                      <speaker>Juan.</speaker>
                      <p>Be quick, dear children, no harm shall happen to you. <hi>(He chucks Idali under the chin.)</hi> You are as blooming as a rose. <hi>(Turning to Ama<g ref="char:EOLhyphen"/>zili.)</hi> And you as—as—as—</p>
                   </sp>
@@ -1214,7 +1214,7 @@ I will be cheerful and happy, because I shall wit<g ref="char:EOLhyphen"/>ness t
                      <p>That we found her talking with some Spa<g ref="char:EOLhyphen"/>niards.</p>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:037763_0030_100F09A6DD3153E0"/>
+                     <pb n="29" facs="unknown:037763_0030_100F09A6DD3153E0"/>
                      <speaker>Juan.</speaker>
                      <p>Oh, you must not mention us, sweet girls! for the high priestess will be angry at your staying so long; and forbid your meeting us again—and you would like, I hope, to come here some<g ref="char:EOLhyphen"/>times, and amuse us with your conversation.</p>
                   </sp>
@@ -1299,7 +1299,7 @@ I will be cheerful and happy, because I shall wit<g ref="char:EOLhyphen"/>ness t
                      <p>O, sir, we have wound them round our fingers.</p>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:037763_0031_100F09A9EA453678"/>
+                     <pb n="30" facs="unknown:037763_0031_100F09A9EA453678"/>
                      <speaker>Juan.</speaker>
                      <p>Yet the threatening storm every moment draws nearer.</p>
                   </sp>
@@ -1324,7 +1324,7 @@ I will be cheerful and happy, because I shall wit<g ref="char:EOLhyphen"/>ness t
                      <p>At least let me cherish the hope, that you will find me worthy of your friendship for my own sake.</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:037763_0032_100F09AC947AAD00"/>
+                     <pb n="31" facs="unknown:037763_0032_100F09AC947AAD00"/>
                      <speaker>Rol.</speaker>
                      <p>You are beloved by Cora; what more can you wish? Oh! if Cora loved me, the gods might seek my friendship! Come into my cave. Oh! from the crown of my head to the sole of my foot, every atom is in commotion' All my strength is bent like a mighty bow. To-day I could rule the world!</p>
                   </sp>
@@ -1333,7 +1333,7 @@ I will be cheerful and happy, because I shall wit<g ref="char:EOLhyphen"/>ness t
                </div>
             </div>
             <div n="3" type="act">
-               <pb n="32" facs="tcp:037763_0033_100F09AE900B5C60"/>
+               <pb n="32" facs="unknown:037763_0033_100F09AE900B5C60"/>
                <head>ACT THIRD.</head>
                <div n="1" type="scene">
                   <head>SCENE FIRST.</head>
@@ -1388,7 +1388,7 @@ I will be cheerful and happy, because I shall wit<g ref="char:EOLhyphen"/>ness t
                   <sp>
                      <speaker>H. P's.</speaker>
                      <p>Why how now?—One of you has uttered an untruth again. What is at the bottom of all this?—Idali, do you remain where you are, and Amazili, come with me. <hi>(She leads her to the other side of the stage, and speaks in a half
-<pb n="33" facs="tcp:037763_0034_100F09B0C9888188"/>
+<pb n="33" facs="unknown:037763_0034_100F09B0C9888188"/>
 whisper.)</hi> Tell me truly, do you come from the temple?</p>
                   </sp>
                   <sp>
@@ -1445,7 +1445,7 @@ whisper.)</hi> Tell me truly, do you come from the temple?</p>
                         <hi>(To Amazili.)</hi> Silly girl, you have forgot<g ref="char:EOLhyphen"/>ten every thing.</p>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:037763_0035_100F09B24B829438"/>
+                     <pb n="34" facs="unknown:037763_0035_100F09B24B829438"/>
                      <speaker>Ama.</speaker>
                      <p>No, it is you who have forgotten.</p>
                   </sp>
@@ -1526,7 +1526,7 @@ whisper.)</hi> Tell me truly, do you come from the temple?</p>
                      <p>Well, well, this may be settled ano<g ref="char:EOLhyphen"/>ther time. Now tell me, how came these Spa<g ref="char:EOLhyphen"/>niards in the temple?</p>
                   </sp>
                   <sp>
-                     <pb n="35" facs="tcp:037763_0036_100F09B446B08A28"/>
+                     <pb n="35" facs="unknown:037763_0036_100F09B446B08A28"/>
                      <speaker>Ida.</speaker>
                      <p>They were not in the temple.</p>
                   </sp>
@@ -1579,7 +1579,7 @@ whisper.)</hi> Tell me truly, do you come from the temple?</p>
                      <p>We only half promised it.</p>
                   </sp>
                   <sp>
-                     <pb n="36" facs="tcp:037763_0037_100F09B6BAF2F910"/>
+                     <pb n="36" facs="unknown:037763_0037_100F09B6BAF2F910"/>
                      <speaker>H. P's.</speaker>
                      <p>But you intend meeting them again?</p>
                   </sp>
@@ -1639,7 +1639,7 @@ whisper.)</hi> Tell me truly, do you come from the temple?</p>
                      <p>I have not offended the gods.</p>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:037763_0038_100F09B9577F26E8"/>
+                     <pb n="37" facs="unknown:037763_0038_100F09B9577F26E8"/>
                      <speaker>H. P's.</speaker>
                      <p>Cora, I command you to look at me. You are acquainted with a Spaniard.</p>
                   </sp>
@@ -1716,7 +1716,7 @@ whisper.)</hi> Tell me truly, do you come from the temple?</p>
                      <p>Spoke she thus? O, she was an affectionate mother! She carried the joy of my life with her to the grave.</p>
                   </sp>
                   <sp>
-                     <pb n="38" facs="tcp:037763_0039_100F09BBAA8FB8B0"/>
+                     <pb n="38" facs="unknown:037763_0039_100F09BBAA8FB8B0"/>
                      <speaker>H. P's.</speaker>
                      <p>Surely her memory is sacred to you?</p>
                   </sp>
@@ -1791,7 +1791,7 @@ whisper.)</hi> Tell me truly, do you come from the temple?</p>
                      <p>To him I dedicate my prayers and my thanks; but my love and my heart to Alonzo!</p>
                   </sp>
                   <sp>
-                     <pb n="39" facs="tcp:037763_0040_100F09BE5210CD38"/>
+                     <pb n="39" facs="unknown:037763_0040_100F09BE5210CD38"/>
                      <speaker>H. P's.</speaker>
                      <p>Alonzo!—I must know no more. Let what has passed be buried in oblivion. For your mother's sake, Cora—for your sake will I be silent. But you must erase the image of Alonzo from your heart.</p>
                   </sp>
@@ -1834,7 +1834,7 @@ whisper.)</hi> Tell me truly, do you come from the temple?</p>
                   <sp>
                      <speaker>H. P's.</speaker>
                      <p>Hasten, ye daughters of the sun! Shut up this unhappy wretch in darkness. Let not the
-<pb n="40" facs="tcp:037763_0041_100F09BFD3AD0878"/>
+<pb n="40" facs="unknown:037763_0041_100F09BFD3AD0878"/>
 rays of our divinity be profaned by falling upon a being so contaminated. You must answer with your lives for the prisoner, till the moment when she shall be brought forth to judgment. Veil yourselves in the deepest mourning. Confine her, and then follow me to the foot of the throne to demand vengeance! Vengeance upon the crim<g ref="char:EOLhyphen"/>inal!</p>
                      <stage>[Exit.</stage>
                   </sp>
@@ -1874,7 +1874,7 @@ rays of our divinity be profaned by falling upon a being so contaminated. You mu
                   <sp>
                      <speaker>H. P.</speaker>
                      <p>Mockery? That were to show themselves fools, and such is not the character of Alonzo or Velasquez. Have you forgotten that our king
-<pb n="41" facs="tcp:037763_0042_100F09C22E72EE20"/>
+<pb n="41" facs="unknown:037763_0042_100F09C22E72EE20"/>
 owes his life to Alonzo? That he has made the people to Quito a terror to their enemies by teaching to fight hand to hand, in close combat? That he had instructed us in many of the arts of peace?—</p>
                   </sp>
                   <sp>
@@ -1931,7 +1931,7 @@ owes his life to Alonzo? That he has made the people to Quito a terror to their 
                      <p>Under such a sovereign, our youth is re<g ref="char:EOLhyphen"/>newed.</p>
                   </sp>
                   <sp>
-                     <pb n="42" facs="tcp:037763_0043_100F09C43150A240"/>
+                     <pb n="42" facs="unknown:037763_0043_100F09C43150A240"/>
                      <speaker>Ata.</speaker>
                      <p>What I am, I am through you; that will I never forget. We have a smiling day, Xaira, the gods are propitious.</p>
                   </sp>
@@ -1982,7 +1982,7 @@ owes his life to Alonzo? That he has made the people to Quito a terror to their 
                   <sp>
                      <speaker>Ata.</speaker>
                      <p>Oh! that eternal peace might permit their nervous arms to be devoted alone to the purposes
-<pb n="43" facs="tcp:037763_0044_100F09C6309295E8"/>
+<pb n="43" facs="unknown:037763_0044_100F09C6309295E8"/>
 of agriculture!—I think it is time to proceed to the temple.</p>
                   </sp>
                   <sp>
@@ -2030,7 +2030,7 @@ of agriculture!—I think it is time to proceed to the temple.</p>
                      <p>He shall be my son. Come nearer young man. <hi>(Zorai kneels.)</hi> Inherit thy father's virtue and thou shalt inherit his honors.</p>
                   </sp>
                   <sp>
-                     <pb n="44" facs="tcp:037763_0045_100F09C83AC453A8"/>
+                     <pb n="44" facs="unknown:037763_0045_100F09C83AC453A8"/>
                      <speaker>Zorai.</speaker>
                      <p>Pardon me, if I promise nothing. Time must show whether I am worthy of this moment.</p>
                   </sp>
@@ -2090,7 +2090,7 @@ of agriculture!—I think it is time to proceed to the temple.</p>
                      <p>The temple is polluted! The altars are profaned: The holy lamp is extinguished!</p>
                   </sp>
                   <sp>
-                     <pb n="45" facs="tcp:037763_0046_100F09CA5DF00448"/>
+                     <pb n="45" facs="unknown:037763_0046_100F09CA5DF00448"/>
                      <speaker>Ata.</speaker>
                      <p>Name the criminal, that the vengeance of the gods may become my vengeance.</p>
                   </sp>
@@ -2135,7 +2135,7 @@ of agriculture!—I think it is time to proceed to the temple.</p>
                   <sp>
                      <speaker>Ata.</speaker>
                      <p>All merciful God!—Enough ye pious women! I know my duty, and will do what the laws of my forefathers require. I ask thee not, Alonzo, if this accusation is truth; thy conscious<g ref="char:EOLhyphen"/>ness is written in thy death-like countenance. Thou art lost! I cannot save thee!—Hadst thou excited my provinces to rebellion, or wrested the half of my kingdom from me by the sword, I would have given thee my hand, and said "Thou didst once save my life, I willingly share with thee my all,"—But—now the king must speak, and the
-<pb n="46" facs="tcp:037763_0047_100F09CD02AFE978"/>
+<pb n="46" facs="unknown:037763_0047_100F09CD02AFE978"/>
 friend remain in silence. Thou art lost! I can<g ref="char:EOLhyphen"/>not save thee! <hi>(With great emotion.)</hi> Alonzo, what hast thou done?</p>
                   </sp>
                   <sp>
@@ -2176,7 +2176,7 @@ friend remain in silence. Thou art lost! I can<g ref="char:EOLhyphen"/>not save 
                      <stage>[Exit.</stage>
                   </sp>
                   <sp>
-                     <pb n="47" facs="tcp:037763_0048_100F09CEF87264C8"/>
+                     <pb n="47" facs="unknown:037763_0048_100F09CEF87264C8"/>
                      <speaker>Xai.</speaker>
                      <p>
                         <hi>(To the priests.</hi>) Go out at the northern gate, until you come to the waste and desolate spot by the wall, o'erspread with heaps of stones—There prepare the grave.</p>
@@ -2200,7 +2200,7 @@ friend remain in silence. Thou art lost! I can<g ref="char:EOLhyphen"/>not save 
                </div>
             </div>
             <div n="4" type="act">
-               <pb n="48" facs="tcp:037763_0049_100F09D0F5209DD0"/>
+               <pb n="48" facs="unknown:037763_0049_100F09D0F5209DD0"/>
                <head>ACT FOURTH.</head>
                <div n="1" type="scene">
                   <head>SCENE FIRST.</head>
@@ -2247,7 +2247,7 @@ friend remain in silence. Thou art lost! I can<g ref="char:EOLhyphen"/>not save 
                   <sp>
                      <speaker>Rol.</speaker>
                      <p>Ye gods!—A mountain has fallen upon me!—Speak, hard-hearted men! Speak!—It is
-<pb n="49" facs="tcp:037763_0050_100F09D39F625510"/>
+<pb n="49" facs="unknown:037763_0050_100F09D39F625510"/>
 Rolla entreats!—Rolla begs!—What has happen<g ref="char:EOLhyphen"/>ed?—What means this grave?—these ill-omened sounds?—Stop—speak! or dread my fury!—<hi>(Exeunt priests.)</hi> O God! my agony is insupport<g ref="char:EOLhyphen"/>able!—Now could I see the good high priest—my venerable uncle.—Ha! he is here!</p>
                   </sp>
                   <stage>
@@ -2283,7 +2283,7 @@ Rolla entreats!—Rolla begs!—What has happen<g ref="char:EOLhyphen"/>ed?—Wh
                      <p>With the gods? O, no! The gods side with me: their lightning is in my hand, their shield covers my breast.—Shortsighted mortals! Love is the holiest, the brightest, the warmest ray of our divinity! it alike unfolds the bud of the rose, and the heart of man! Woe, then, to the wretch who retires to cold and cloistered solitude, when he should open his breast to receive this genial ray! But double woe to the greater wretch, who spreads the cloud of superstition between man and his god, to intercept this heavenly emanation!—But to whom am I talking? You cannot understand me.</p>
                   </sp>
                   <sp>
-                     <pb n="50" facs="tcp:037763_0051_100F09D5DE01BF58"/>
+                     <pb n="50" facs="unknown:037763_0051_100F09D5DE01BF58"/>
                      <speaker>H. P.</speaker>
                      <p>You do me injustice, Rolla.</p>
                   </sp>
@@ -2350,7 +2350,7 @@ Rolla entreats!—Rolla begs!—What has happen<g ref="char:EOLhyphen"/>ed?—Wh
                   <sp>
                      <speaker>H. P.</speaker>
                      <p>Rolla, thou torturest me. Learn to be silent when an old man speaks. Or if thou canst not reverence my age, respect my misfortunes. I am not a priest by. choice, but by birth. Oh! had you known me in youth, you would have seen one more eager to brandish the sword in the face of my country's enemies, than to hold the knife to the throat of the lambs and turtle doves of the altar. Believe me, few are the men who stand in
-<pb n="51" facs="tcp:037763_0052_100F09D7D7EDBB80"/>
+<pb n="51" facs="unknown:037763_0052_100F09D7D7EDBB80"/>
 their proper places, and fewest of all, those whose places are determined by birth.</p>
                   </sp>
                   <sp>
@@ -2387,7 +2387,7 @@ their proper places, and fewest of all, those whose places are determined by bir
                      <p>She looks from above and blesses us. Now does Rolla know that it was the heart of a father which hung on his every action—that fol<g ref="char:EOLhyphen"/>lowed him into the field of battle, and bounded with transport when he returned victorious home.</p>
                   </sp>
                   <sp>
-                     <pb n="52" facs="tcp:037763_0053_100F09D95A1202E0"/>
+                     <pb n="52" facs="unknown:037763_0053_100F09D95A1202E0"/>
                      <speaker>Rol.</speaker>
                      <p>Have I then ever communicated the throbs of transport to any human breast? My father! O this name is so new—and these feelings are so new.—O my father! Why did you so long con<g ref="char:EOLhyphen"/>ceal yourself from a heart like mine, a heart so destitute of joy?</p>
                   </sp>
@@ -2430,7 +2430,7 @@ their proper places, and fewest of all, those whose places are determined by bir
                   <sp>
                      <speaker>Rol.</speaker>
                      <p>Think, my father, think of that hour when Cora shall meet your Zulma in the regions of peace, and shall say to her, "I am a virgin of
-<pb n="53" facs="tcp:037763_0054_100F09DADCF70A00"/>
+<pb n="53" facs="unknown:037763_0054_100F09DADCF70A00"/>
 the sun, condemned to death by the father of your Rolla, because I dared to love"—by you, my fa<g ref="char:EOLhyphen"/>ther!—by you!—guilty of the same crime, if crime it be, for which you-murder her.</p>
                   </sp>
                   <sp>
@@ -2494,7 +2494,7 @@ the sun, condemned to death by the father of your Rolla, because I dared to love
                      <p>If it be possible.</p>
                   </sp>
                   <sp>
-                     <pb n="54" facs="tcp:037763_0055_100F09DDDFE20490"/>
+                     <pb n="54" facs="unknown:037763_0055_100F09DDDFE20490"/>
                      <speaker>Rol.</speaker>
                      <p>One bold stroke—one desperate push—</p>
                   </sp>
@@ -2571,7 +2571,7 @@ the sun, condemned to death by the father of your Rolla, because I dared to love
                   <sp>
                      <speaker>Rol.</speaker>
                      <p>I once led the armies of my country. The soldiers still love me, still remember the vic<g ref="char:EOLhyphen"/>tories
-<pb n="55" facs="tcp:037763_0056_100F09E075285278"/>
+<pb n="55" facs="unknown:037763_0056_100F09E075285278"/>
 we have gained together, and the hours of danger, in which the meanest of them was my bro<g ref="char:EOLhyphen"/>ther. To you, also, Velasquez, the king has en<g ref="char:EOLhyphen"/>trusted a valiant band. At my signal all that bear arms will assemble, and be guided by us. We ask nothing for ourselves. Sacred shall be the throne. Sacred the life and property of each in<g ref="char:EOLhyphen"/>dividual. We will only ask freedom—freedom for Cora and Alonzo!</p>
                   </sp>
                   <sp>
@@ -2598,7 +2598,7 @@ we have gained together, and the hours of danger, in which the meanest of them w
                      <p>Very long.</p>
                   </sp>
                   <sp>
-                     <pb n="56" facs="tcp:037763_0057_100F09E1F6F3C790"/>
+                     <pb n="56" facs="unknown:037763_0057_100F09E1F6F3C790"/>
                      <speaker>Xai.</speaker>
                      <p>What could the king want of him.</p>
                   </sp>
@@ -2666,7 +2666,7 @@ we have gained together, and the hours of danger, in which the meanest of them w
                      <p>Such was nearly his determination. But he thinks one example due to the repose of his peo<g ref="char:EOLhyphen"/>ple.</p>
                   </sp>
                   <sp>
-                     <pb n="57" facs="tcp:037763_0058_100F09E3EE8DA9E0"/>
+                     <pb n="57" facs="unknown:037763_0058_100F09E3EE8DA9E0"/>
                      <speaker>Xai.</speaker>
                      <p>One only?—And which?—"The guilty only shall die"—but what earthly wisdom shall de<g ref="char:EOLhyphen"/>termine the guilty? Will not each endeavor to throw the guilt upon the other?</p>
                   </sp>
@@ -2710,7 +2710,7 @@ we have gained together, and the hours of danger, in which the meanest of them w
                      <speaker>H. P.</speaker>
                      <p>
                         <hi>(With mild solemnity.)</hi> We, the servants of the gods, appointed to execute their holy will, are here assembled as judges of Cora, the daugh<g ref="char:EOLhyphen"/>ter of Telasco, and Alonzo, the stranger. Shed thy beams upon our hearts, O, our father! Thou
-<pb n="58" facs="tcp:037763_0059_100F09E58A693110"/>
+<pb n="58" facs="unknown:037763_0059_100F09E58A693110"/>
 who viewest the world with a glance! Thou hast appointed us judges over life and death, over honor and shame! Let, then, thy wisdom enlighten our minds, that no partiality may bias them; that they may be alike free from weakness and revenge. <hi>(He kneels.)</hi> We swear, O Sun! to judge accord<g ref="char:EOLhyphen"/>ing to thy laws communicated by Manco-Capac! We swear to judge with mercy, if the profanation of thy temple will permit mercy to be remembered in judgment! Call thy servants before thee this day, if it be thy will; we here swear, to render a faithful account of this awful hour!</p>
                   </sp>
                   <sp>
@@ -2772,7 +2772,7 @@ who viewest the world with a glance! Thou hast appointed us judges over life and
                      <p>Have pity on the weakness of the woman! Let the man make atonement.</p>
                   </sp>
                   <sp>
-                     <pb n="59" facs="tcp:037763_0060_100F09E81D3A6430"/>
+                     <pb n="59" facs="unknown:037763_0060_100F09E81D3A6430"/>
                      <speaker>Co.</speaker>
                      <p>O no! no! <hi>(The high priest turns aside to conceal his emotion.)</hi> On me pass sentence ye re<g ref="char:EOLhyphen"/>verend judges! I alone deserve your vengeance! My advances inspired him with boldness! I alone am guilty! I alone should die!</p>
                   </sp>
@@ -2814,7 +2814,7 @@ who viewest the world with a glance! Thou hast appointed us judges over life and
                         <hi>(Returning to her place with composure and dignity.)</hi> Now, pronounce sentence.</p>
                   </sp>
                   <sp>
-                     <pb n="60" facs="tcp:037763_0061_100F09EA1A13FAC8"/>
+                     <pb n="60" facs="unknown:037763_0061_100F09EA1A13FAC8"/>
                      <speaker>H. P.</speaker>
                      <p>Lead her away.</p>
                   </sp>
@@ -2861,7 +2861,7 @@ who viewest the world with a glance! Thou hast appointed us judges over life and
                </div>
             </div>
             <div n="5" type="act">
-               <pb n="61" facs="tcp:037763_0062_100F09EC3538ADF8"/>
+               <pb n="61" facs="unknown:037763_0062_100F09EC3538ADF8"/>
                <head>ACT FIFTH.</head>
                <div type="scene">
                   <stage>Scene.—The inside of the Temple of the Sun, dis<g ref="char:EOLhyphen"/>playing all the magnificence of the Peruvian wor<g ref="char:EOLhyphen"/>ship. In the center an Altar raised on steps, over which is suspended a brilliant Sun of gold. Priests burning incense.</stage>
@@ -2896,7 +2896,7 @@ who viewest the world with a glance! Thou hast appointed us judges over life and
                      <p>That cannot be sufficient. Weak and frail was man created—his judgments are liable to error—such are thy conclusions—such are mine. The earth is imperfect, and all that lives and moves thereon. Doubtless it is necessary. But the cer<g ref="char:EOLhyphen"/>tainty of this imperfection should make us merci<g ref="char:EOLhyphen"/>ful in the hour of judgment.</p>
                   </sp>
                   <sp>
-                     <pb n="62" facs="tcp:037763_0063_100F09EEB86992F8"/>
+                     <pb n="62" facs="unknown:037763_0063_100F09EEB86992F8"/>
                      <speaker>Xai.</speaker>
                      <p>No more. It is inconsistent with your duty to endeavor to bias my judgment, and with mine to listen to you longer.</p>
                   </sp>
@@ -2955,7 +2955,7 @@ who viewest the world with a glance! Thou hast appointed us judges over life and
                   <sp>
                      <speaker>Al.</speaker>
                      <p>O! father of mercies, I am bowed down before thee! In the temple of an idol I feel thy presence; I sink under the sense of my guilt. I
-<pb n="63" facs="tcp:037763_0064_100F09F0B37CE498"/>
+<pb n="63" facs="unknown:037763_0064_100F09F0B37CE498"/>
 am the murderer of Cora—the murderer of her venerable father!—I destroy the peace of a hos<g ref="char:EOLhyphen"/>pitable people, who received and loved me as their benefactor—O shame! shame!—Open, earth, to receive and cover me! May the grass never grow upon my grave, nor the dew of heaven light on it! <hi>(Seeing Cora as she enters.)</hi> How blest did the sight of that form once make me—but now, it but doubles my despair.</p>
                   </sp>
                   <stage>
@@ -2982,7 +2982,7 @@ am the murderer of Cora—the murderer of her venerable father!—I destroy the 
                      <p>Within the last hour I fell upon my knees and prayed for my father—I prayed that some mild death would draw him from the world, before his daughter's fate could reach his ears. <hi>(Turns and sees her father.)</hi> Ah!—I am heard!—Be<g ref="char:EOLhyphen"/>hold my father's spirit!</p>
                   </sp>
                   <stage>
-                     <pb n="64" facs="tcp:037763_0065_100F09F346686180"/>
+                     <pb n="64" facs="unknown:037763_0065_100F09F346686180"/>
                      <hi>Enter</hi> TELASCO <hi>and</hi> ZORAI, <hi>in chains, guarded.</hi>
                   </stage>
                   <sp>
@@ -3040,7 +3040,7 @@ am the murderer of Cora—the murderer of her venerable father!—I destroy the 
                      <speaker>Zor.</speaker>
                      <p>
                         <hi>(Raising his sister, at the same time re<g ref="char:EOLhyphen"/>pulsing Alonzo.)</hi> Away with thee, thou murderer
-<pb n="65" facs="tcp:037763_0066_100F09F55D559138"/>
+<pb n="65" facs="unknown:037763_0066_100F09F55D559138"/>
 of innocence!—O! how little does the hero be<g ref="char:EOLhyphen"/>come when we approach and view him? Gods! how I loved this man at a distance; while I listened to the tales of his praise! How did my young heart leap, while I longed to be an Alonzo! Fool that I was! His deeds were the work of chance, and himself as weak as the rest of mankind! Look around at the spectacle before thee—it is thy work!—Thank these chains, that even in the temple of our God, I take not bloody vengeance on thee!</p>
                   </sp>
                   <sp>
@@ -3077,7 +3077,7 @@ of innocence!—O! how little does the hero be<g ref="char:EOLhyphen"/>come when
                      <p>Stranger, I harbour no resentment against thee. How can I better leave the world than in speaking pardon to those who have injured me. Have you parents living?</p>
                   </sp>
                   <sp>
-                     <pb n="66" facs="tcp:037763_0067_100F09F8339CFF58"/>
+                     <pb n="66" facs="unknown:037763_0067_100F09F8339CFF58"/>
                      <speaker>Al.</speaker>
                      <p>An aged mother.</p>
                   </sp>
@@ -3117,7 +3117,7 @@ of innocence!—O! how little does the hero be<g ref="char:EOLhyphen"/>come when
                      <p>How, Inca!—Can you be so cruel as to strip the stem of its flourishing branches, yet leave it standing?—For mercy, strike at the root—that no vestige remain of the tree!</p>
                   </sp>
                   <sp>
-                     <pb n="67" facs="tcp:037763_0068_100F09FA302D6790"/>
+                     <pb n="67" facs="unknown:037763_0068_100F09FA302D6790"/>
                      <speaker>Ata.</speaker>
                      <p>
                         <hi>(To Zorai.)</hi> Young man, you also are free. <hi>(Murmurs among the priests are heard, the King looks with displeasure among them, and pro<g ref="char:EOLhyphen"/>ceeds in a louder tone.)</hi> It is the will of my fa<g ref="char:EOLhyphen"/>ther, the sun, that, henceforth, the guilty alone shall suffer. Be the support of your aged father; nurse and comfort him until his death; then come to me as to your elder brother. <hi>(Prevents Zorai from kneeling.)</hi> For you, Cora—I can do nothing.</p>
@@ -3159,7 +3159,7 @@ of innocence!—O! how little does the hero be<g ref="char:EOLhyphen"/>come when
                      <p>How, Alonzo? Know you nothing to urge in extenuation of your conduct?</p>
                   </sp>
                   <sp>
-                     <pb n="68" facs="tcp:037763_0069_100F09FBB31EDE48"/>
+                     <pb n="68" facs="unknown:037763_0069_100F09FBB31EDE48"/>
                      <speaker>Al.</speaker>
                      <p>Nothing.</p>
                   </sp>
@@ -3203,7 +3203,7 @@ of innocence!—O! how little does the hero be<g ref="char:EOLhyphen"/>come when
                      </p>
                   </sp>
                   <stage>
-                     <pb n="69" facs="tcp:037763_0070_100F09FDB4564508"/>
+                     <pb n="69" facs="unknown:037763_0070_100F09FDB4564508"/>
                      <hi>Enter the</hi> CHAMBERLAIN.</stage>
                   <sp>
                      <speaker>Cham.</speaker>
@@ -3249,7 +3249,7 @@ of innocence!—O! how little does the hero be<g ref="char:EOLhyphen"/>come when
                         <hi>(To Xaira.)</hi> Silence! <hi>(To Rolla.)</hi> Who art thou?</p>
                   </sp>
                   <sp>
-                     <pb n="70" facs="tcp:037763_0071_100F09FFC07EC138"/>
+                     <pb n="70" facs="unknown:037763_0071_100F09FFC07EC138"/>
                      <speaker>Rol.</speaker>
                      <p>Do you not know me?</p>
                   </sp>
@@ -3278,7 +3278,7 @@ of innocence!—O! how little does the hero be<g ref="char:EOLhyphen"/>come when
                      <p>I have only one word to urge in my de<g ref="char:EOLhyphen"/>fence. Let it suffice, O Inca! if thou partakest of the frailti<gap reason="illegible: indecipherable" extent="2 letters">
                            <desc>••</desc>
                         </gap> of human nature!—I love!—My passion has become like a tree, the root of which is so deeply entwined with my life, that the one cannot be plucked up without destroying the other. In climbing the lofty heights of honor, still love has been my conductor. It was my companion in the day of danger; and, in the field of battle, the only word I heard was Cora.—O Inca! shew that you have the feelings of a man! Extend your mercy to Cora—on my knees I entreat for her life. Since Cora has called me brother, I have
-<pb n="71" facs="tcp:037763_0072_100F0A0238361360"/>
+<pb n="71" facs="unknown:037763_0072_100F0A0238361360"/>
 become proud; yet, on my knees, I beg the life of my sister.</p>
                   </sp>
                   <sp>
@@ -3326,7 +3326,7 @@ become proud; yet, on my knees, I beg the life of my sister.</p>
                      <p>Rebel, do what you will, and the gods permit! But know, that Ataliba will not pro<g ref="char:EOLhyphen"/>nounce sentence, until he sees you disarmed and kneeling at his feet. It shall never be said, that mercy was extorted from the king. Ye people of Quito, for seven years that I have reigned over you, can any one accuse me of injustice? Has not the promotion of your happiness been my only study?—Ye people of Quito, I have not de<g ref="char:EOLhyphen"/>served this moment! Seize that man! chain him! or I lay down the sceptre of the Incas.</p>
                   </sp>
                   <sp>
-                     <pb n="72" facs="tcp:037763_0073_100F0A0437B48F20"/>
+                     <pb n="72" facs="unknown:037763_0073_100F0A0437B48F20"/>
                      <speaker>Rol.</speaker>
                      <p>
                         <hi>(Turning to his followers.)</hi> You seize me! You put me in chains! Which among you will do this? Is it you, my old companion in battle, with whom I have shared my last morsel, when all the army famished? Or you, whose life I saved in the fields of Tumibamba? Or you, whose son I rescued when the spear of his enemy was lifted to pierce him? Which among you will seize me?</p>
@@ -3343,7 +3343,7 @@ become proud; yet, on my knees, I beg the life of my sister.</p>
                      <speaker>Co.</speaker>
                      <p>
                         <hi>(Goes up to Rolla, and embraces him.)</hi> Let these tears thank you for your love to me, my brother! You are a truly great man. I have only known you this day. But one so great and good must be the friend of his king. Cora has committed a crime; and would you commit an<g ref="char:EOLhyphen"/>other to save her from punishment? No, Rolla must not do that. Let me die! My father and my brother have forgiven me; Alonzo dies with me; and I am content. Our spirits shall hover round you, and rejoice to behold you true to your king, your country, and your gods. O yes! I see your brow becoming serene and your eyes moist. Repress not your tears—they disgrace not the eyes of a warrior.—Give me your sword—your javelin.—<hi>(She takes them, and lays them at the feet of Ataliba.)</hi> Behold now a hero indeed! I thank you, Rolla—I am proud of your love—and now let me lead you to our good king's feet. Come, that the triumph of virtue may be com<g ref="char:EOLhyphen"/>plete
-<pb n="73" facs="tcp:037763_0074_100F0A06C43D4420"/>
+<pb n="73" facs="unknown:037763_0074_100F0A06C43D4420"/>
                         <hi>(She leads him to the king; kneels, and he kneels near her.)</hi> O sovereign of Quito! I bring your hero back! Pardon him! He deserves your pardon! <hi>(She resumes her station.)</hi> Now, Inca, proceed to judgment.</p>
                   </sp>
                   <sp>
@@ -3407,7 +3407,7 @@ become proud; yet, on my knees, I beg the life of my sister.</p>
                   <sp>
                      <speaker>H. P.</speaker>
                      <p>Mercy is the will of the gods. Those times in which your ancestors established the wor<g ref="char:EOLhyphen"/>ship of the sun, those rude times are no more. Compulsive institutions are no longer necessary to preserve decency in the worship of our god. Let truth and nature prevail. Therefore, Inca, I stand here in the name of the gods, and call upon you, the benefactor of your people, to crown all your noble deeds by a sacrifice which is due to reason, and, through her, to the gods themselves! Shrink not. Be quick to do good. Let the prayers of
-<pb n="74" facs="tcp:037763_0075_100F0A0927DF1B88"/>
+<pb n="74" facs="unknown:037763_0075_100F0A0927DF1B88"/>
 an old man move you—one who has guided your youthful steps—who loves you as his son! Re<g ref="char:EOLhyphen"/>ward me to-day for my cares! <hi>(Takes off his fillet, and shews his grey hair.)</hi> For the sake of my grey hairs, thus whitened in your service!</p>
                   </sp>
                   <sp>
@@ -3437,7 +3437,7 @@ an old man move you—one who has guided your youthful steps—who loves you as 
       </body>
       <back>
          <div type="notes">
-            <pb facs="tcp:037763_0076_100F0A0B2D7252B8"/>
+            <pb facs="unknown:037763_0076_100F0A0B2D7252B8"/>
             <head>NOTES ON THE VIRGIN OF THE SUN.</head>
             <p>THIS play was exhibited, for the first time, on the thea<g ref="char:EOLhyphen"/>tre at Revel, the 8th of December, 1789. The charac<g ref="char:EOLhyphen"/>ters were thus represented:—</p>
             <list>
@@ -3478,7 +3478,7 @@ an old man move you—one who has guided your youthful steps—who loves you as 
             <sp>
                <speaker>Rol.</speaker>
                <p>Call me what you please!—Yet, if I be an enthu<g ref="char:EOLhyphen"/>siast, think not that I am suddenly become so. This heart was born to be the seat of mighty passions.—To the common swarm of emmets which bustle about the world, I had an aversion, even as a boy. When my play<g ref="char:EOLhyphen"/>mates were merry and sportive around me, I played it is true, but I always found it irksome, though I never could precisely ascertain to what cause that feeling might be as<g ref="char:EOLhyphen"/>cribed. But when storms lowered around the horizon, when our mountains vomitted forth flames at midnight, or
-<pb n="76" facs="tcp:037763_0077_100F0A0CB0369B08"/>
+<pb n="76" facs="unknown:037763_0077_100F0A0CB0369B08"/>
 subterraneous groanings announced an approaching earth<g ref="char:EOLhyphen"/>quake, then my heart felt elevated; my languishing spi<g ref="char:EOLhyphen"/>rit revived; the withered plant again reared its head. As I advanced in life, no female attractions had power to charm my eyes;—they remained stedfastly and eagerly fixed on the more brilliant rays of honor. Blinded to every beauty of Nature, my heart, my throbbing heart, burned solely to run the career of same and glory; while each victory that I obtained, far from proving an assuag<g ref="char:EOLhyphen"/>ing drop to mitigate the flame, served only to increase its ardor.—Then it was that I saw Cora again!</p>
             </sp>
             <sp>
@@ -3518,7 +3518,7 @@ subterraneous groanings announced an approaching earth<g ref="char:EOLhyphen"/>q
                <p>He who is doing ill, may always be more ad<g ref="char:EOLhyphen"/>vantageously employed; and by the blood of all the knights that does or does not flow in my veins, I think we are now cursedly in the wrong. I say nothing of the sword suspended by a thread over our heads—affection takes precedence of life—you love Cora—I have the strongest attachment for you, and Diego is attached to both.</p>
             </sp>
             <sp>
-               <pb n="77" facs="tcp:037763_0078_100F0A0EB1C91A18"/>
+               <pb n="77" facs="unknown:037763_0078_100F0A0EB1C91A18"/>
                <speaker>Dieg.</speaker>
                <p>Certainly, certainly, sir!—but—notwithstand<g ref="char:EOLhyphen"/>ing—pray don't take it amiss, if I think that life has pre<g ref="char:EOLhyphen"/>cedence of affection.</p>
             </sp>
@@ -3557,7 +3557,7 @@ subterraneous groanings announced an approaching earth<g ref="char:EOLhyphen"/>q
                <p>Carefully instructed by your fathers and mothers to pluck every flower which might lie in your way—to wring the neck of every bird which might fall into your hands—from your infancy, each avenue in your hearts has been closed against humanity; while he, who could, with the greatest composure, perform such ignoble ac<g ref="char:EOLhyphen"/>tions, was considered as bearing in his bosom the germs of the future high priest.</p>
             </sp>
             <sp>
-               <pb n="78" facs="tcp:037763_0079_100F0A1178449A20"/>
+               <pb n="78" facs="unknown:037763_0079_100F0A1178449A20"/>
                <speaker>H. P.</speaker>
                <p>This from you, Rolla?</p>
             </sp>
@@ -3591,7 +3591,7 @@ subterraneous groanings announced an approaching earth<g ref="char:EOLhyphen"/>q
                <p>Stop till you hear the conclusion of my story!—The long-smothered flame of love now burst out with uncontroulable wildness."</p>
             </sp>
             <sp>
-               <pb n="79" facs="tcp:037763_0080_100F0A13866CBEB0"/>
+               <pb n="79" facs="unknown:037763_0080_100F0A13866CBEB0"/>
                <p>Page 56. <hi>But see he comes.]</hi> Here the following lines are omitted—</p>
             </sp>
             <sp>
@@ -3656,7 +3656,7 @@ subterraneous groanings announced an approaching earth<g ref="char:EOLhyphen"/>q
             <sp>
                <speaker>H. P.</speaker>
                <p>At the source of a clear stream, we do not think of the mud by which it may be contaminated in its
-<pb n="80" facs="tcp:037763_0081_100F0A15092B4658"/>
+<pb n="80" facs="unknown:037763_0081_100F0A15092B4658"/>
 course. I entreat you, let us be true to our vocation, let us resemble the god whom we serve, whose rays dif<g ref="char:EOLhyphen"/>fuse light and heat over all! Let us acquit Cora!—It will then lie in the king's bosom to act as he shall judge right, either by confirming or reversing our sentence; and should it be reversed, we shall, at least, have done our duty, in shewing a disposition to clemency, while the hapless victim will breathe her last sighs in gratitude for our intended mercy.</p>
             </sp>
             <sp>
@@ -3676,8 +3676,8 @@ course. I entreat you, let us be true to our vocation, let us resemble the god w
                <p>But when has this power been exercised?—Has not every Inca, from father to son, for centuries past, uniformly confirmed the sentence of the priests?—Will Ataliba, think you, venture to deviate from the practice of his ancestors?"</p>
             </sp>
             <trailer>FINIS.</trailer>
-            <pb facs="tcp:037763_0082_100F0A16AD6DB320"/>
-            <pb facs="tcp:037763_0083_100F0A18B7D59058"/>
+            <pb facs="unknown:037763_0082_100F0A16AD6DB320"/>
+            <pb facs="unknown:037763_0083_100F0A18B7D59058"/>
             <gap reason="duplicate" extent="1 page">
                <desc>〈1 page duplicate〉</desc>
             </gap>
